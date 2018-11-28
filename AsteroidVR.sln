@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidVR", "Assembly-CSharp.csproj", "{51063485-8F72-CA2B-93BF-A134D4FCE0B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidVR", "Assembly-CSharp-Editor.csproj", "{27FA9DD7-3F81-22C5-AA46-D0B0E3DEC0B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51063485-8F72-CA2B-93BF-A134D4FCE0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51063485-8F72-CA2B-93BF-A134D4FCE0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51063485-8F72-CA2B-93BF-A134D4FCE0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51063485-8F72-CA2B-93BF-A134D4FCE0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FA9DD7-3F81-22C5-AA46-D0B0E3DEC0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FA9DD7-3F81-22C5-AA46-D0B0E3DEC0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FA9DD7-3F81-22C5-AA46-D0B0E3DEC0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FA9DD7-3F81-22C5-AA46-D0B0E3DEC0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
